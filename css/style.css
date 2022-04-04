@@ -268,7 +268,6 @@ footer p {
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
   margin-top: 45px;
-  padding-bottom: 30px;
 }
 
 .header .header_top a {
@@ -368,6 +367,10 @@ footer p {
   cursor: pointer;
   color: #fff;
   background-color: #f9b640;
+}
+
+.header .header_box .header_image {
+  margin-top: 10px;
 }
 
 .header .header_box .header_image .img img {
@@ -747,7 +750,7 @@ footer p {
 
 .footer .footer_info a {
   font-size: 14px;
-  color: #509AFF;
+  color: #509aff;
   text-decoration: none;
 }
 
@@ -763,7 +766,7 @@ footer p {
   font-size: 14px;
   line-height: 25px;
   letter-spacing: -0.006em;
-  color: #22356F;
+  color: #22356f;
 }
 
 .footer .footer_info .footer_info_some_info {
@@ -788,7 +791,7 @@ footer p {
 
 footer {
   height: 80px;
-  background-color: #62D0DF;
+  background-color: #62d0df;
   margin-bottom: 0;
 }
 
@@ -797,7 +800,7 @@ footer p {
   font-size: 14px;
   line-height: 11px;
   letter-spacing: -0.006em;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 0;
   padding-top: 40px;
 }
